@@ -1,4 +1,4 @@
-# Monte-Carlo-Basic
+# Monte Carlo Simulation Basic
 
 #### Monte Carlo Method is technique that involving generating random numbers to solve problems with probabilistic models. It is often called Monte Carlo Simulation since it replys on repeated random sampling.
 
