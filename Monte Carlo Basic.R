@@ -13,7 +13,7 @@ for (i in 1:10000) {
 #calculate p-value#
 pvalue<-sum(abs(t)>=abs(t0))/10000
 
-####Permulation Analysis of comparisons of means studies###
+####Permutation Analysis of comparisons of means studies###
 ###Compare two group of patients responses, null hypothesis of no differences###
 a<-c()#Import data, responses cases were binary, y=1, no=0
 b<-c()
